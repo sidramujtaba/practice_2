@@ -1,0 +1,38 @@
+body {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: violet;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+table {
+    border: 2px solid black;
+    border-radius: 5px;
+} 
+
+th, td {
+    border: 2px solid greenyellow;
+    text-align: center;
+    padding: 7px;
+    margin: 0px;
+}
+
+mark {
+    background-color: pink;
+    color: blue;
+    padding: 6px;
+    border-radius: 9px;
+}
+
+/* th {
+    border: 1px solid blue;
+}
+tr {
+    border: 2px soild pink;
+} */
